@@ -77,6 +77,33 @@ p{
 #cp{
     border-radius: 25px;
 }
+#blike{
+    font-size: 25px;
+    margin-left: 520px;
+    margin-top: -60px;
+    width: fit-content;
+}
+#blike2{
+    font-size: 25px;
+    margin-left: 860px;
+    margin-top: -65px;
+    width: fit-content;
+}
+#likecountx{
+    font-size: 25px;
+    margin-left: -265px;
+    width: fit-content;
+}
+#likecountx2{
+    font-size: 25px;
+    margin-left: 75px;
+    margin-top: -67px;
+    width: fit-content;
+}
+#blike, #blike2:hover{
+    cursor: pointer;
+}
+
 body{
     background-image: url(bkg.jpg);
     background-size: cover;
