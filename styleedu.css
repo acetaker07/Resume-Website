@@ -47,6 +47,22 @@ p{
 #et{
     text-decoration: underline;
 }
+#at:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+#et:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+#ct:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
+#headname:hover{
+    opacity: 50%;
+    cursor: pointer;
+}
 body{
     background-image: url(bkg.jpg);
     background-size: cover;
